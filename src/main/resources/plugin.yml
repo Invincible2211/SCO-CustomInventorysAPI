@@ -1,0 +1,6 @@
+name: CustomInventoryAPI
+version: 0.1
+main: CustomInventoryAPI
+api-version: 1.16
+prefix: CustomInventoryAPI
+authors: [ Freddyblitz ]
