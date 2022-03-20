@@ -5,7 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08c01954-61a9-446b-aa6a-98b4faa2d5a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/CustomInventoryAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/LanguageAPI.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/control/CustomInventoryAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/control/InventoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/control/PermissionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/control/configuration/ConfigurationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/control/configuration/LanguageFileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/control/database/DatabaseConnector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/control/hook/LanguageAPIConnector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/DatabaseData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/inventory/CustomInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/inventory/DefaultInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/inventory/InventoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/inventory/InventoryPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/inventory/InventoryType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/inventory/PageInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/ClickAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/GUIItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/items/Accept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/items/Back.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/items/Close.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/items/Decline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/items/Down.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/items/Next.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/items/PlayerHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/items/Previous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/items/Up.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/item/items/YesNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/model/permission/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/de_de.language" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/en_us.language" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CustomInventorysAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CustomInventorysAPI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/CustomInventoryAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/fynn/sco/custominventoryapi/CustomInventoryAPIPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +53,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,8 +83,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JarFiles/Testserver/1.16.1/plugins/LanguageAPI.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27701148" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FynnS\IdeaProjects\SCO\SCO-CustomInventorysAPI\src\main\java\de\fynn\sco\custominventoryapi" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,6 +105,8 @@
       <updated>1642360107502</updated>
       <workItem from="1642360109383" duration="18000" />
       <workItem from="1642363908632" duration="85000" />
+      <workItem from="1643285247379" duration="463000" />
+      <workItem from="1647793267428" duration="6700000" />
     </task>
     <servers />
   </component>

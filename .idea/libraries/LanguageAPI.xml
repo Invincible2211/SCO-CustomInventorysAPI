@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LanguageAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JarFiles/Testserver/1.16.1/plugins/LanguageAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
