@@ -2,5 +2,5 @@ name: CustomInventoryAPIPlugin
 version: 0.1
 main: de.fynn.sco.custominventoryapi.CustomInventoryAPIPlugin
 api-version: 1.16
-prefix: CustomInventoryAPIPlugin
+prefix: CustomInventoryAPI
 authors: [ Freddyblitz ]
